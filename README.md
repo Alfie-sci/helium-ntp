@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/e3a74da4-8c2f-4b6f-923d-48b2cea1c407" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+# This is my custom fork of mlemlab's custom helium ntp
+My additions include: Using the background from helium://setup, removing the url bar, changing the time's font, size and colour.
+
 
 # Disclosure & Attribution
 I am not affiliated with Helium or Imput. This project was originally created for my personal use — I'm sharing it here for anyone to enjoy.
